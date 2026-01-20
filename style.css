@@ -1,0 +1,16 @@
+.gg{
+margin: 0;
+padding: 0;
+background: orange;
+color: aquamarine;
+font-size: large;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+}
+.hh{
+margin: auto;
+padding: 3px;
+background: yellow;
+color: brown;
+font-size: 32px;
+}
